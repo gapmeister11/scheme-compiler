@@ -269,6 +269,8 @@ Memory Usage: heap allocation is capped at 256MiB - going over will result in te
 
 Application of Non-Functions: attempting to apply a non-function value will terminate the program.
 
+Not handled is the arity of functions - some work was made on that front, but it never came to fruition. Also not handled is the checking or printing of hashes.
+
 ## Command Line Arguments
 
 The compiler takes several command line arguments. The general form of a call to CRAP is the following:
