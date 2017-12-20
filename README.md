@@ -1,4 +1,4 @@
-CRAP (Completely RAdical Compiler)
+CRAP (Completely RAdical comPiler)
 ========================
 
 ## Overview
