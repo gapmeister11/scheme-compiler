@@ -1,0 +1,8 @@
+bin
+a.out
+compiled/*
+*.o
+*.ll
+main.cpp
+cps.scm
+*~
